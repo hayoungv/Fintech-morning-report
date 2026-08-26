@@ -13,7 +13,7 @@ _"무슨 일이 일어났는가 → 왜 중요한가 → 어떤 사업 기회·�
 
 ## 🔗 최신 리포트
 
- [📄 리포트 열기](https://hayoungv.github.io/Fintech-morning-report/reports/fintech-morning-report-20260826.html)
+ [📄 리포트 열기](https://hayoungv.github.io/Fintech-morning-report/reports/fintech-morning-report-20260827.html)
 
 ---
 
